@@ -1,0 +1,41 @@
+*
+{
+	text-align:center;
+	margin-top:10px;
+}
+
+.top
+{
+	text-align:left;
+	font-size:30pt;
+}
+
+.intro
+{
+	font-size:24pt;
+	color:#00a0e9;
+}
+
+.date
+{
+	font-size:21pt;
+}
+
+.communication
+{
+	font-size:21pt;
+	ime-mode:disabled;
+}
+
+.footer
+{
+	font-size:15pt;
+	height:30px;
+	position:bottom;
+}
+
+.footer > footer
+{
+	display:block;
+	line-height:30px;
+}
